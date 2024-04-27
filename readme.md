@@ -28,7 +28,7 @@ Credits by Arsyita Devanaya Arianto/3122500008/2 D3 IT A
 2. Ketikan Perintah Berikut
 
 ```
-git clone https://github.com/UKM-SoftDev/sales-app-node.git
+git clone https://github.com/Arsyitadevanaya/sales-app-node.git
 ```
 
 3. Masuk Ke Dalam Folder Hasil Clone
